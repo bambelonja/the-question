@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//bambelonja.github.io/the-question/static/css/main.5f361e03.chunk.css",
-    "main.js": "//bambelonja.github.io/the-question/static/js/main.978c480c.chunk.js",
-    "main.js.map": "//bambelonja.github.io/the-question/static/js/main.978c480c.chunk.js.map",
-    "runtime-main.js": "//bambelonja.github.io/the-question/static/js/runtime-main.044b01f0.js",
-    "runtime-main.js.map": "//bambelonja.github.io/the-question/static/js/runtime-main.044b01f0.js.map",
-    "static/js/2.3db4bc9c.chunk.js": "//bambelonja.github.io/the-question/static/js/2.3db4bc9c.chunk.js",
-    "static/js/2.3db4bc9c.chunk.js.map": "//bambelonja.github.io/the-question/static/js/2.3db4bc9c.chunk.js.map",
-    "index.html": "//bambelonja.github.io/the-question/index.html",
-    "precache-manifest.671458fdf0bbdbc4928361a11c1b1133.js": "//bambelonja.github.io/the-question/precache-manifest.671458fdf0bbdbc4928361a11c1b1133.js",
-    "service-worker.js": "//bambelonja.github.io/the-question/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "//bambelonja.github.io/the-question/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3db4bc9c.chunk.js.LICENSE.txt": "//bambelonja.github.io/the-question/static/js/2.3db4bc9c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "//bambelonja.github.io/the-question/static/media/logo.5d5d9eef.svg"
+    "main.css": "/the-question/static/css/main.5f361e03.chunk.css",
+    "main.js": "/the-question/static/js/main.874216f6.chunk.js",
+    "main.js.map": "/the-question/static/js/main.874216f6.chunk.js.map",
+    "runtime-main.js": "/the-question/static/js/runtime-main.b0d008cf.js",
+    "runtime-main.js.map": "/the-question/static/js/runtime-main.b0d008cf.js.map",
+    "static/js/2.3db4bc9c.chunk.js": "/the-question/static/js/2.3db4bc9c.chunk.js",
+    "static/js/2.3db4bc9c.chunk.js.map": "/the-question/static/js/2.3db4bc9c.chunk.js.map",
+    "index.html": "/the-question/index.html",
+    "precache-manifest.83f517703879be5694aa012f85e0fb02.js": "/the-question/precache-manifest.83f517703879be5694aa012f85e0fb02.js",
+    "service-worker.js": "/the-question/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/the-question/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3db4bc9c.chunk.js.LICENSE.txt": "/the-question/static/js/2.3db4bc9c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/the-question/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.044b01f0.js",
+    "static/js/runtime-main.b0d008cf.js",
     "static/js/2.3db4bc9c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.978c480c.chunk.js"
+    "static/js/main.874216f6.chunk.js"
   ]
 }
