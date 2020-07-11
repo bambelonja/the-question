@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.5556f842.chunk.js",
-    "main.js.map": "/static/js/main.5556f842.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c9723f0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c9723f0.js.map",
-    "static/js/2.3db4bc9c.chunk.js": "/static/js/2.3db4bc9c.chunk.js",
-    "static/js/2.3db4bc9c.chunk.js.map": "/static/js/2.3db4bc9c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.db6cca2a5a5e97a489c3116bdd323ce1.js": "/precache-manifest.db6cca2a5a5e97a489c3116bdd323ce1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3db4bc9c.chunk.js.LICENSE.txt": "/static/js/2.3db4bc9c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "//bambelonja.github.io/the-question/static/css/main.5f361e03.chunk.css",
+    "main.js": "//bambelonja.github.io/the-question/static/js/main.978c480c.chunk.js",
+    "main.js.map": "//bambelonja.github.io/the-question/static/js/main.978c480c.chunk.js.map",
+    "runtime-main.js": "//bambelonja.github.io/the-question/static/js/runtime-main.044b01f0.js",
+    "runtime-main.js.map": "//bambelonja.github.io/the-question/static/js/runtime-main.044b01f0.js.map",
+    "static/js/2.3db4bc9c.chunk.js": "//bambelonja.github.io/the-question/static/js/2.3db4bc9c.chunk.js",
+    "static/js/2.3db4bc9c.chunk.js.map": "//bambelonja.github.io/the-question/static/js/2.3db4bc9c.chunk.js.map",
+    "index.html": "//bambelonja.github.io/the-question/index.html",
+    "precache-manifest.671458fdf0bbdbc4928361a11c1b1133.js": "//bambelonja.github.io/the-question/precache-manifest.671458fdf0bbdbc4928361a11c1b1133.js",
+    "service-worker.js": "//bambelonja.github.io/the-question/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "//bambelonja.github.io/the-question/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3db4bc9c.chunk.js.LICENSE.txt": "//bambelonja.github.io/the-question/static/js/2.3db4bc9c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "//bambelonja.github.io/the-question/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c9723f0.js",
+    "static/js/runtime-main.044b01f0.js",
     "static/js/2.3db4bc9c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5556f842.chunk.js"
+    "static/js/main.978c480c.chunk.js"
   ]
 }
